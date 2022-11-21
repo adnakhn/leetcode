@@ -1,4 +1,4 @@
-#include <bitstdc++.h>
+#include <bits/stdc++.h>
 
 class Solution
 {
